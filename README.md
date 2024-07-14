@@ -36,13 +36,13 @@ Descrição breve do projeto. Tecnologias usadas: Java, Spring Boot, MySQL.
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-![Commit Count](https://komarev.com/ghpvc/?username=seu-usuario&label=Commits&color=blue&style=flat-square)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlyssonSilvahub&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssonSilvahub&layout=compact&theme=radical)
+![Commit Count](https://komarev.com/ghpvc/?username=AlyssonSilvahub&label=Commits&color=blue&style=flat-square)
 
 ## Contribuições Recentes
 
-[![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)](https://github.com/seu-usuario)
+[![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=AlyssonSilvahub&theme=radical)](https://github.com/seu-usuario)
 
 ## Contato
 
