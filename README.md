@@ -23,16 +23,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   
 
-## Projetos Destaque
 
-### [Projeto 1](link do projeto)
-Descrição breve do projeto. Tecnologias usadas: React, Node.js, MongoDB.
-
-### [Projeto 2](link do projeto)
-Descrição breve do projeto. Tecnologias usadas: Django, PostgreSQL, Docker.
-
-### [Projeto 3](link do projeto)
-Descrição breve do projeto. Tecnologias usadas: Java, Spring Boot, MySQL.
 
 ## Estatísticas do GitHub
 
