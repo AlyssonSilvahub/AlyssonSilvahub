@@ -14,7 +14,8 @@
     </div>
     
   
-   
+   <div>![Commit Count](https://komarev.com/ghpvc/?username=seu-usuario&label=Commits&color=blue&style=flat-square)
+
     </div>
 
   
