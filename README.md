@@ -4,10 +4,10 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias linguagens de programação e frameworks. Sempre buscando aprender e me desafiar com novos projetos.
 
-- 🔭 Atualmente, estou trabalhando em [Projeto Atual](link do projeto).
-- 🌱 No momento, estou aprendendo [Tecnologia ou Ferramenta].
+- 🔭 Atualmente, estou trabalhando em Em um Game de luta 2d ](link do projeto).
+- 🌱 No momento, estou aprendendo [Java Script].
 - 💬 Pergunte-me sobre [Áreas de Interesse].
-- 📫 Como me encontrar: [Seu Email](mailto:seu-email@gmail.com).
+- 📫 Como me encontrar: (alyssonsilvabbt@gmail.com).
 - ⚡ Curiosidade: [Uma curiosidade interessante sobre você].
 
 ## Habilidades
