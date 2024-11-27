@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias linguagens de programação e frameworks. Sempre buscando aprender e me desafiar com novos projetos.
 
-- 🔭 Atualmente, estou trabalhando em Em um Game de luta 2d (link do projeto).
+- 🔭 Atualmente, estou trabalhando em Em um Game de luta 2d (https://github.com/AlyssonSilvahub/Projeto-Game).
 - 🌱 No momento, estou aprendendo Java Script.
 - 📫 Como me encontrar: (alyssonsilvabbt@gmail.com).
 
