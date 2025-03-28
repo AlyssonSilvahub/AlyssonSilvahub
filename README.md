@@ -5,7 +5,8 @@
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias linguagens de programação e frameworks. Sempre buscando aprender e me desafiar com novos projetos.
 
 - 🔭 Atualmente, terminei este trabalho um Game de luta 2d (https://fightninja.netlify.app/).
-- 🌱 No momento, estou aprendendo Java Script.
+- 🔭 Meu primeiro projeto por Gustavo Guanabara sobre o Google Glass (https://open-world-glasses.netlify.app/)
+- 🌱 No momento, estou aprendendo Java.
 - 📫 Como me encontrar: (alyssonsilvabbt@gmail.com).
 
 
@@ -36,9 +37,8 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 
 ## Contato
 
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
-- Twitter: [Seu Perfil](https://twitter.com/seu-perfil)
-- Email: [seu-email@gmail.com](mailto:seu-email@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/alysson-silva8b/)
+- Email: [email@gmail.com](alyssonsilvabbt@gmail.com)
 
 ---
 
