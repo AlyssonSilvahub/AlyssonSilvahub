@@ -35,10 +35,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 
 [![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=AlyssonSilvahub&theme=radical)](https://github.com/seu-usuario)
 
-## Contato
-
-- LinkedIn: (https://www.linkedin.com/in/alysson-silva8b/)
-- Email: [email@gmail.com](alyssonsilvabbt@gmail.com)
 
 ---
 
