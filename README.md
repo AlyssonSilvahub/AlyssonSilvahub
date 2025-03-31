@@ -12,13 +12,13 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 
 ## Habilidades
 
-- **Linguagens de Programação**: 
+- **Linguagens de Programação**:
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 
 
-- **Ferramentas e Plataformas**: 
+- **Ferramentas e Plataformas**:
   - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   
